@@ -1,0 +1,60 @@
+/*
+p {
+    color: #082005;
+background-color: #b7f7f1;    	
+  }
+  */
+ body{
+  background-color: #eeee;
+  background-image: url(ocean.jpg);
+
+ }
+ .imgbox {
+  border: 20px solid #000000;
+  padding: 10px;
+  background-color:#ffff00;
+
+
+ }
+  .specialp {
+    color:#ff7300;
+    background-color: rgba(255, 255, 255, 0);
+    font-family:  sans-serif; 
+    font-style: italic;
+
+
+  }
+  #specialid {
+    color:rgb(203, 248, 248);
+    background-color: rgb(0, 145, 96);
+    font-family:  sans-serif;
+    text-align: justify;
+
+  }
+  #divexample{
+    background-color: rgb(87, 0, 185);
+    font-family:  sans-serif;
+    text-align: center;
+  }
+  
+  .spanstyle {
+    color: rgb(255, 136, 0);
+    font-family:  sans-serif;
+    font-style: italic;
+  }
+  a {
+    color: rgb(255, 0, 0);
+    font-family:  sans-serif;
+  }
+  a:visited {
+    color: #2bff00;
+    font-family:  sans-serif;
+  }
+  a:active {
+    color: #00ffff;
+    font-family:  sans-serif;
+  }
+  a:hover {
+    color: #ffff00;
+    font-family: sans-serif;
+  }        
