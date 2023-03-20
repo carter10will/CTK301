@@ -1,0 +1,114 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  border: 1px solid #000;
+  width: 150px;
+  margin: 10px;
+  background-color: rgb(0, 38, 255);
+  color:white;
+  display: inline-block;
+}
+nav li a {
+  color:white;
+  text-decoration: none; 
+  display: block;
+  padding: 10px;
+  background-image: #0051ff;
+
+}
+nav li a:hover {
+background-color: #ff0000;
+background-image: #ff0000;
+}
+
+nav a:hover{
+color:red;
+}
+
+
+
+
+#divfinal2{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  text-align: justify;
+  font-family: Helvetica;
+  padding-left: 15px;
+
+  
+
+
+}
+a {
+  text-decoration: none;
+  }
+
+  
+ 
+  #divfinal{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    text-align: justify;
+    font-family: Helvetica;
+    padding-left: 15px;
+    font-weight: normal;
+
+
+}
+.bordertop {
+    border-top: 1px solid #ff0000;
+}
+.borderbottom {
+    border-bottom: 1px solid #000000;
+    padding-bottom: 20px ;
+    margin-bottom: 40px ;
+}
+.borderright {
+    border-right: 1px solid #0000ff;
+  }
+  
+  .borderleft {
+    border-left: 1px solid #ff00ff;
+  }
+  .rainbowborder {
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    font-weight: lighter;
+  }  
+  .blocking{
+    display: block;
+  }
+  
+  body{
+    background-color: #eeee;
+    background-image: url(waves.png);
+    padding-bottom: 10px;
+  }
+
+#divexample{
+  background-color: rgb(8, 0, 114);
+  color: white;
+  font-family: verdana;
+  text-emphasis: bold;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  padding: 10px;
+}
